@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dhaka_green">#FF00693E</color>
+    <color name="dhaka_green_dark">#FF00A85A</color>
+    <color name="dhaka_red">#FFD1223B</color>
+    <color name="ic_launcher_background">#FF00693E</color>
+</resources>
